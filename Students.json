@@ -1,0 +1,87 @@
+{ "Nigeria": {
+	"Students":
+    [
+      {"id": 100,
+      "Sname": "Tajudeen",
+      "Sgrade": "B",
+      "phone": [
+        "123456",
+        "311113"
+      ],
+      "courses": [
+        "Physics",
+        "Mathematics"]
+      },
+
+
+      {"id": 101,
+      "Sname": "Idowu",
+      "Sgrade": "A",
+      "phone": [
+        "1234567",
+        "211133"
+      ],
+      "courses": [
+        "Biology",
+        "Geography"
+      ]
+    },
+{
+   "id": 102,
+     "Sname": "Busari",
+     "Sgrade": "C",
+     "Phone": [
+        "12345678",
+        "1234"
+      ],
+      "courses": [
+        "Economics",
+        "History"
+      ]
+    },
+
+{
+      "Sname": "Aderogba",
+      "Sgrade": "B",
+      "phone": [
+        "12300",
+        "123098"
+      ],
+      "courses": [
+        "Physics",
+        "Mathematics"
+      ],
+      "id": 103
+    },
+{
+      "Sname": "Aderogba",
+      "Sgrade": "B",
+      "phone": [
+        "12300",
+        "123098"
+      ],
+      "courses": [
+        "Physics",
+        "Mathematics"
+      ],
+      "id": 104
+    },
+{
+      "Sname": "Arigbabuwo",
+      "Sgrade": "F",
+      "phone": [
+        "4653",
+        "1724"
+      ],
+      "courses": [
+        "Physics",
+        "Mathematics"
+      ],
+      "id": 105
+    }
+]
+
+
+	}
+      
+}
